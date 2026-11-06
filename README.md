@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Precious Triumph 👋
+# Hi, I'm Precious Triumph
 
 ### Frontend Developer | JavaScript | React | Next.js | PHP | Laravel | Flutter
 
