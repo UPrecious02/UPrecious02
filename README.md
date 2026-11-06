@@ -2,7 +2,7 @@
 
 # Hi, I'm Precious Triumph 👋
 
-### Frontend Developer | JavaScript | Next.js | PHP | Flutter
+### Frontend Developer | JavaScript | React | Next.js | PHP | Laravel | Flutter
 
 I build responsive, practical, and user-focused web experiences. I enjoy turning ideas into functional products, solving problems through code, and continuously learning better ways to build for the web.
 
@@ -15,7 +15,7 @@ I build responsive, practical, and user-focused web experiences. I enjoy turning
 ## 👨‍💻 About Me
 
 - I'm a developer focused on building modern web applications and digital experiences.
-- I work with **JavaScript, Next.js, PHP, and Flutter**.
+- I work with **JavaScript, React, Next.js, PHP, Laravel, and Flutter**.
 - I have experience building websites and working with CMS and CRM platforms.
 - I'm currently growing my skills in **Next.js and modern frontend development**.
 - I value clean, maintainable code, continuous learning, and building things that solve real problems.
